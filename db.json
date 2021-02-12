@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Miguel",
+      "apellido": "Marin",
+      "email": "miguelmaring@gmail.com",
+      "password": 1111
+    },
+    {
+      "id": 2,
+      "nombre": "Elena",
+      "apellido": "Urdiales",
+      "email": "irasess@gmail.com",
+      "password": 2222
+    },
+    {
+      "id": 3,
+      "nombre": "Fernando",
+      "apellido": "Lopez",
+      "email": "yoko@gmail.com",
+      "password": 3333
+    },
+    {
+      "id": 4,
+      "nombre": "Juan",
+      "apellido": "Garcia",
+      "email": "canonman@gmail.com",
+      "password": 4444
+    }
+  ]
+}
